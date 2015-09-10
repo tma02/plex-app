@@ -1,0 +1,14 @@
+{
+  "name": "plex",
+  "version": "0.0.1",
+  "description": "Plex desktop app",
+  "main": "app.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "author": "Tianyi Ma <tn.ma@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "electron-prebuilt": "^0.31.2"
+  }
+}
